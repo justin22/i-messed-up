@@ -1,0 +1,17 @@
+{
+  "name": "i-messed-up",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1"
+  }
+}
