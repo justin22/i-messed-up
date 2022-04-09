@@ -4,7 +4,7 @@ import data from './data.json';
  * @param {boolean} strigify 
  * @returns {string|object} 
  */
-module.exports = function iMessedUp (strigify = false) {
+module.exports = function iMessedUp (strigify = true) {
   const index = getRandomNumber({ range: data.length});
   if (!strigify)
     return data[index];
@@ -17,5 +17,5 @@ module.exports = function iMessedUp (strigify = false) {
  */
 function getRandomNumber({ range  }) {
   if (!range) return 0;
-  return Math.round(Math.random() * range - 1);
+  return Math.round(Math.random() * (range - 1));
 }
