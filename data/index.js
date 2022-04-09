@@ -1,4 +1,4 @@
-[
+export default [
   {
     "title": "Sinking of Titanic could have been prevented if it weren’t for a missing key",
     "source": "https://www.storypick.com/stupid-mistakes-made-history-weep/"
