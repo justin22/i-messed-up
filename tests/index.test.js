@@ -7,14 +7,14 @@ describe('i messed up', () => {
     expect(data).toHaveProperty('source');
   });
 
-  test('should return data as string', () => {
-    const data = iMessedUp();
-    expect(typeof data).toBe("string");
-  });
-
   test('should have title', () => {
     const data = iMessedUp(false);
     expect(data).toHaveProperty('title');;
+  });
+
+  test('should return data as string', () => {
+    const data = iMessedUp();
+    expect(typeof data).toBe("string");
   });
 
 });
