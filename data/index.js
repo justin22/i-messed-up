@@ -20,11 +20,27 @@ export default [
     "source": "https://www.storypick.com/stupid-mistakes-made-history-weep/"
   },
   {
-    "title": "COLUMBUS IS BAD AT MATH, 'DISCOVERS' THE NEW WORLD",
+    "title": "Columbus is bad at math, 'discovers' the new world. ",
     "source": "https://www.grunge.com/130614/idiot-mistakes-that-changed-the-course-of-history/"
   },
   {
-    "title": "CAPTAIN GETS DRUNK, CAUSES A DEVASTATING OIL SPILL",
+    "title": "Captain gets drunk, causes a devastating oil spill",
     "source": "https://www.grunge.com/130614/idiot-mistakes-that-changed-the-course-of-history/"
+  },
+  {
+    "title": "A few stupid mistakes causes New York city's 1977 blackout",
+    "source": "https://www.grunge.com/130614/idiot-mistakes-that-changed-the-course-of-history/"
+  },
+  {
+    "title": "An Unlocked Door Doomed Constantinople",
+    "source": "https://listverse.com/2014/03/10/9-tiny-mistakes-with-monumental-historical-consequences/"
+  },
+  {
+    "title": "The Spy Who Fell Asleep And Lost His Papers",
+    "source": "https://listverse.com/2014/03/10/9-tiny-mistakes-with-monumental-historical-consequences/"
+  },
+  {
+    "title": "Excite passed up buying Google for $750,000 in 1999",
+    "source": "https://www.internethistorypodcast.com/2014/11/the-real-reason-excite-turned-down-buying-google-for-750000-in-1999/"
   }
 ]
