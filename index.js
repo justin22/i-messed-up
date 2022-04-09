@@ -1,10 +1,10 @@
-import data from './data';
+import data from './data/index.js';
 
 /**
  * @param {boolean} strigify 
  * @returns {string|object} 
  */
-module.exports = function iMessedUp (strigify = true) {
+export default function iMessedUp (strigify = true) {
   const index = getRandomNumber({ range: data.length});
   if (!strigify)
     return data[index];
