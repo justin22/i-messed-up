@@ -1,4 +1,4 @@
-import iMessedUp from './index';
+import iMessedUp from '../index';
 
 describe('i messed up', () => {
 
